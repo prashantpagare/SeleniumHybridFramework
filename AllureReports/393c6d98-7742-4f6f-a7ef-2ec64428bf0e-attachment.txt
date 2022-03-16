@@ -1,0 +1,3 @@
+INFO     root:test_login.py:14 ********** Test_001_Login Started ********** 
+INFO     root:test_login.py:15 ********** Verifying Home Page Title ********** 
+INFO     root:test_login.py:23 **********  Home Page Title test is passed **********

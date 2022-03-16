@@ -1,0 +1,2 @@
+INFO     root:test_login.py:31 ********** Verifying Login Test ********** 
+INFO     root:test_login.py:44 **********  Login Test is passed **********

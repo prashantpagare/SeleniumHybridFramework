@@ -1,0 +1,9 @@
+03/16/2022 04:55:53 PM: INFO: ********** Test_001_Login Started ********** 
+03/16/2022 04:55:53 PM: INFO: ********** Verifying Home Page Title ********** 
+03/16/2022 04:56:26 PM: INFO: **********  Home Page Title test is passed ********** 
+03/16/2022 04:56:27 PM: INFO: ********** Verifying Login Test ********** 
+03/16/2022 04:56:33 PM: INFO: **********  Login Test is passed ********** 
+03/16/2022 04:56:34 PM: INFO: ********** Verifying Test_002_Login_DDT Test ********** 
+03/16/2022 04:58:07 PM: INFO: ***** Passed ***** 
+03/16/2022 04:58:09 PM: INFO: ********** Search Customer By Email test started **********
+03/16/2022 04:58:45 PM: INFO: ********** Login Successful **********
