@@ -13,7 +13,7 @@ class ReadConfig:
 
     @staticmethod
     def getUserEmail():
-        username = config.get("common info", "useremail")
+        username = config.get("common info", "emailAdd")
         return username
 
     @staticmethod

@@ -4,7 +4,7 @@ import pytest
 
 from pageObjects.LoginPage import LoginPage
 from pageObjects.AddCustomerPage import AddCustomerPage
-from pageObjects.SearchCustomerByEmailPage import SearchCustomer
+from pageObjects.SearchCustomer import SearchCustomer
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
@@ -39,6 +39,7 @@ class Test_004_SearchCustomerByEmail:
 
         time.sleep(3)
         email = self.sc.searchCustomerByEmail("brenda_lindgren@nopCommerce.com")
+        print(email)
         assert True == email
         self.logger.info("********** Search Customer By Email test Completed **********")
 

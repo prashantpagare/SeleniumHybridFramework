@@ -4,7 +4,7 @@ import pytest
 
 from pageObjects.LoginPage import LoginPage
 from pageObjects.AddCustomerPage import AddCustomerPage
-from pageObjects.SearchCustomerByEmailPage import SearchCustomer
+from pageObjects.SearchCustomer import SearchCustomer
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
